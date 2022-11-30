@@ -1,0 +1,26 @@
+/* *{
+	padding: 0;
+	margin: 0;
+} */
+body{
+	background-color: lightcoral;
+}
+header h1{
+	text-align: center;
+	background-color: lightslategray;
+}
+table{
+	margin-top: 50px;
+	text-align: center;
+	/* background: #333; */
+	background: rgb(28, 105, 101);
+	color: #fff;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
